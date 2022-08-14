@@ -1,0 +1,29 @@
+// Breakpoints
+// 600px and DOWN: phones
+// 600px and UP: portrait tablets and large phones
+// 768px and up: landscape tablets
+// 992px and up: laptops/desktops
+// 1200px and up: large laptops and desktops
+
+// Colors
+
+// - Soft red: hsl(10, 79%, 65%) rgb(236, 119, 95)
+// - Cyan: hsl(186, 34%, 60%) rgb(118, 181, 188)
+// - Dark brown: hsl(25, 47%, 15%) rgb(56, 35, 20)
+// - Medium brown: hsl(28, 10%, 53%) rgb(147, 134, 123)
+// - Cream: hsl(27, 66%, 92%) rgb(248, 233, 221)
+// - Very pale orange: hsl(33, 100%, 98%) rgb(255, 250, 245)
+
+$primary: rgb(236, 119, 95);
+$on-primary: rgb(255, 250, 245);
+
+$secondary-light: rgb(118, 181, 188);
+
+$secondary-dark: rgb(56, 35, 20);
+$on-secondary-dark: rgb(255, 250, 245);
+
+$background: rgb(248, 233, 221);
+
+$surface: rgb(255, 250, 245);
+$on-surface: rgb(56, 35, 20);
+$on-surface-light: rgb(147, 134, 123);
